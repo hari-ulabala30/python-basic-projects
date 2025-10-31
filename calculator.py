@@ -10,8 +10,6 @@ match n:
         print(a*b)
     case 4:
         print(a/b)
-    case 5:
-        print("hi")
     case _:
         print("invalid case")    
 
